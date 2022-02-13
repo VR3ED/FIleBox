@@ -1,0 +1,28 @@
+﻿<Window x:Class="ServerFileBox1._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServerFileBox1._1"
+        mc:Ignorable="d"
+        x:Name="finestra" Title="Server (spento)" Closing="finestra_Closing" Height="450" Width="800" MinHeight="450" MaxHeight="450" MinWidth="800" MaxWidth="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Vertical" Margin="20">
+                <Label Content="FileBox Server" FontSize="35" Foreground="#00add1"></Label>
+                <Button x:Name="btnStart" Content="start" Click="Button_Click" HorizontalAlignment="Left" Margin="0,10"  Height="150" Width="275"/>
+                <Button x:Name="btnStop" Content="stop" Click="Button_Click_1" HorizontalAlignment="Left" Margin="0"  Height="150" Width="275"/>
+            </StackPanel>
+            <StackPanel Margin="20" Width="430">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="memoria usata:" FontSize="18" VerticalAlignment="Center"></Label>
+                    <ProgressBar x:Name="pbStorage" Value="1" BorderBrush="CadetBlue" Height="16" Width="285"></ProgressBar>
+                </StackPanel>
+
+                <TextBlock Background="Black" Margin="0,0,0,0" Foreground="#00add1" Text="Operazioni:"></TextBlock>
+                <TextBlock x:Name="txtCmd" Background="Black" Margin="0,0,0,0" Foreground="#00add1" Height="346"></TextBlock>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>

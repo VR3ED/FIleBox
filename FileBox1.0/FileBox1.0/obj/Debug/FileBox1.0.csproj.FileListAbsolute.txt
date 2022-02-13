@@ -1,0 +1,75 @@
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\FileBox1.0.exe.config
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\FileBox1.0.exe
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\FileBox1.0.pdb
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignColors.dll
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignColors.pdb
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.csprojAssemblyReference.cache
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\MainWindow.g.cs
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\App.g.cs
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0_MarkupCompile.cache
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0_MarkupCompile.lref
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\App.baml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\MainWindow.baml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.g.resources
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1._0.Properties.Resources.resources
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.csproj.GenerateResource.cache
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.csproj.CopyComplete
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.exe
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.pdb
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox.g.cs
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\FileBox.baml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\System.Buffers.dll
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\System.Memory.dll
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\System.Buffers.xml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\System.Memory.xml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\Immagini.g.cs
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\Immagini.baml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\audio.g.cs
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\obj\Debug\audio.baml
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\NAudio.dll
+C:\Users\iT-Taste\source\repos\FileBox1.0\FileBox1.0\bin\Debug\NAudio.xml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\FileBox1.0.exe.config
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\FileBox1.0.exe
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\FileBox1.0.pdb
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignColors.dll
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\NAudio.dll
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\System.Buffers.dll
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\System.Memory.dll
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignColors.pdb
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\NAudio.xml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\System.Buffers.xml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\System.Memory.xml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.csprojAssemblyReference.cache
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\audio.g.cs
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox.g.cs
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\Immagini.g.cs
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\MainWindow.g.cs
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\App.g.cs
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0_MarkupCompile.cache
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0_MarkupCompile.lref
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\App.baml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\audio.baml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox.baml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\Immagini.baml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\MainWindow.baml
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.g.resources
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1._0.Properties.Resources.resources
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.csproj.GenerateResource.cache
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.csproj.CopyComplete
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.exe
+D:\GitHub Projects\File box\FileBox1.0\FileBox1.0\obj\Debug\FileBox1.0.pdb

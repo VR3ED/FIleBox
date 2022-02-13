@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <user>
+    <id>alibaba1</id>
+    <username>alibaba</username>
+    <pass>admin</pass>
+    <spazio>2,149002</spazio>
+  </user>
+  <user>
+    <id>adminalibaba11</id>
+    <username>admin</username>
+    <pass>alibaba</pass>
+    <spazio>0</spazio>
+  </user>
+</ArrayOfUser>

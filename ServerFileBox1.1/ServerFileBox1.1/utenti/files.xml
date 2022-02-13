@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFilec xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <filec>
+    <idU>alibaba1</idU>
+    <nome>cavallini2.jpeg</nome>
+    <peso>149Kb</peso>
+  </filec>
+  <filec>
+    <idU>alibaba1</idU>
+    <nome>from_cava.mp3</nome>
+    <peso>2Mb</peso>
+  </filec>
+  <filec>
+    <idU>adminalibaba11</idU>
+    <nome>ARCHITETTURA DEI COMPUTER.txt</nome>
+    <peso>0Kb</peso>
+  </filec>
+</ArrayOfFilec>

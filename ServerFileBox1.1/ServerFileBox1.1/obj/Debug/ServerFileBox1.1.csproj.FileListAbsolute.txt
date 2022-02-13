@@ -1,0 +1,65 @@
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.exe.config
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.exe
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.pdb
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csprojAssemblyReference.cache
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\MainWindow.g.cs
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\App.g.cs
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1_MarkupCompile.cache
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1_MarkupCompile.lref
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\MainWindow.baml
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.g.resources
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1._1.Properties.Resources.resources
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csproj.GenerateResource.cache
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.exe
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.pdb
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignColors.dll
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\App.baml
+C:\Users\iT-Taste\source\repos\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csproj.CopyComplete
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.exe.config
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.exe
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.pdb
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\MainWindow.g.cs
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\App.g.cs
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1_MarkupCompile.cache
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1_MarkupCompile.lref
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\App.baml
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\MainWindow.baml
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.g.resources
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1._1.Properties.Resources.resources
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csproj.GenerateResource.cache
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csproj.CoreCompileInputs.cache
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csproj.CopyComplete
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.exe
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.pdb
+C:\Users\Francesco Cavallini\Desktop\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csprojAssemblyReference.cache
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.exe.config
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.exe
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\ServerFileBox1.1.pdb
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignColors.dll
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignColors.pdb
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csprojAssemblyReference.cache
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\MainWindow.g.cs
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\App.g.cs
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1_MarkupCompile.cache
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1_MarkupCompile.lref
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\App.baml
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\MainWindow.baml
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.g.resources
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1._1.Properties.Resources.resources
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csproj.GenerateResource.cache
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.csproj.CopyComplete
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.exe
+D:\GitHub Projects\File box\ServerFileBox1.1\ServerFileBox1.1\obj\Debug\ServerFileBox1.1.pdb

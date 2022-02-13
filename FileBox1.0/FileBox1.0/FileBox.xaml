@@ -1,0 +1,155 @@
+﻿<Window x:Class="FileBox1._0.FileBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FileBox1._0"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Icon="imm\desktop.png"
+        Title="FileBox" Height="561.4" Width="448.2" MinHeight="561.4" MinWidth="448.2" MaxHeight="561.4" MaxWidth="448.2">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,0" Width="448.2" Background="#00add1" Height="80" VerticalAlignment="Top">
+
+                <materialDesign:Chip Name="txtNome" Content="ANZ Bank" Icon="A" Margin="5,0,35,40" Foreground="White" IconBackground="LimeGreen" Height="32" VerticalAlignment="Bottom"/>
+
+                <StackPanel Margin="35,-15,75,0">
+                    <Image Source="imm\icona.png" Width="100" Height="100"/>
+                </StackPanel>
+                <Border CornerRadius="20" Height="45" Width="45" BorderBrush="White" BorderThickness="2" Margin="20,-12,20,10" Background="#00add1">
+                    <Menu Margin="-10,-7" Foreground="White" VerticalAlignment="Top"   HorizontalAlignment="Center" HorizontalContentAlignment="Center" Background="Transparent">
+                        <MenuItem Header="..." Margin="0,0,0,0">
+                            <MenuItem Header="Refresh" Background="#00add1" Click="MenuItem_Click_3">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="Refresh" />
+                                </MenuItem.Icon>
+                            </MenuItem>
+                            <MenuItem Header="Logout" Background="#00add1" Click="MenuItem_Click">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="ExitToApp" />
+                                </MenuItem.Icon>
+                            </MenuItem>
+                            <MenuItem Header="Elimina Profilo" Background="#00add1" Click="MenuItem_Click_1">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="Delete" />
+                                </MenuItem.Icon>
+                            </MenuItem>
+                            <MenuItem Header="Esci dall'applicazine" Background="#00add1" Click="MenuItem_Click_2">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="Close" />
+                                </MenuItem.Icon>
+                            </MenuItem>
+                        </MenuItem>
+                    </Menu>
+                </Border>
+            </StackPanel>
+            <TabControl Margin="0,-23" BorderThickness="0" Height="476">
+
+                <TabItem Header="Files" BorderThickness="0" Background="Transparent" >
+                    <Grid VerticalAlignment="Top">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition Height="12"></RowDefinition>
+                            <RowDefinition Height="6.5*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="219*"></ColumnDefinition>
+                            <ColumnDefinition Width="7*"></ColumnDefinition>
+                            <ColumnDefinition Width="211*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="2" Margin="0,0,-0.4,0">
+                            <StackPanel Orientation="Horizontal"  >
+                                <ProgressBar Style="{StaticResource MaterialDesignCircularProgressBar}" x:Name="storage" Value="20" Background="#a9c7db"  Width="30" Height="30" Margin="5"></ProgressBar>
+                            </StackPanel>
+                            <StackPanel Orientation="Vertical">
+                                <Label Content="Spazio utilizzato:" FontWeight="Bold"></Label>
+                                <Label Content="0/200mb" Name="txtSpazio"></Label>
+                            </StackPanel>
+                        </StackPanel>
+                        
+                        <Separator Grid.Row="0" Margin="201,7,201.6,5" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.ColumnSpan="3" RenderTransformOrigin="0.508,0.4">
+                            <Separator.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="89.58"/>
+                                    <TranslateTransform X="0.665" Y="0.93"/>
+                                </TransformGroup>
+                            </Separator.RenderTransform>
+                        </Separator>
+
+                        <StackPanel Orientation="Horizontal" Grid.Column="0" Margin="9,0,7.2,0.4" HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <Border BorderBrush="#2196f3" BorderThickness="2" CornerRadius="12" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,7.2,0.4" Width="191" >
+                                <StackPanel Orientation="Horizontal" Margin="15,-5,7.2,-5" Width="190" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <TextBox Name="searchBar" BorderThickness="0" Margin="15,3,0.4,-3" Width="141" TextChanged="searchBar_TextChanged"></TextBox>
+                                    <Image Width="30" Height="30" Source="imm\search.png"></Image>
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+                        
+                        <!--<StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="2" Margin="0,0,-0.4,0">
+                            <StackPanel Orientation="Horizontal" >
+                                <ProgressBar Style="{StaticResource MaterialDesignCircularProgressBar}" x:Name="velocita" Value="0" Background="#a9c7db" Width="30" Height="30" Margin="0,5,5,5"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Vertical">
+                                <Label Content="velocità trasmissiva:" FontWeight="Bold"></Label>
+                                <Label Content="inizzializzando..." Name="txtVelocità"></Label>
+                            </StackPanel>
+                        </StackPanel>-->
+                        
+                        <Separator Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Margin="0,0,0,0"  VerticalAlignment="Top"></Separator>
+                        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.ColumnSpan="3" Margin="0,-15,0,-15.8">
+                            <!-- QUIIIIIIIIIIIIIIIIII MODIFICA QUIIIIIIIIIIIIIIIIIIIII-->
+                            <ListView Name="lxLista" HorizontalAlignment="Stretch" BorderThickness="2" VerticalContentAlignment="Center" Background="Transparent" SelectionMode="Single" Margin="0,0,-0.4,0" Height="313" PreviewMouseDoubleClick="lxLista_MouseDoubleClick">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridViewColumn Width="80" Header="Icona">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Image Width="30" Height="30" Source="{Binding Path=imm}"></Image>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                        </GridViewColumn>
+                                        <GridViewColumn
+									Width="250"
+									Header="Nome File"
+									DisplayMemberBinding="{Binding Path=nome}"></GridViewColumn>
+                                        <GridViewColumn
+									Width="80"
+									Header="peso"
+									DisplayMemberBinding="{Binding Path=peso}"></GridViewColumn>
+                                    </GridView>
+                                </ListView.View>
+                                
+                            </ListView>
+                            <Button x:Name="btnInvia" Content="Carica un File" Click="btnInvia_Click" Margin="5"></Button>
+                            <StackPanel Orientation="Horizontal" >
+                                <Button Name="btnElimina" Content="Elimina Selezionati" Width="200" Margin="5" Click="btnElimina_Click"></Button>
+                                <Button Name="btnDownload" Content="Scarica Selezionati" Width="200" Margin="15,5,5,5" Click="btnDownload_Click"></Button>
+                            </StackPanel>
+                        </StackPanel>
+
+                    </Grid>
+                </TabItem>
+                <TabItem Header="Storico" BorderThickness="0" Background="Transparent">
+                    <ListView Name="lxStorico" HorizontalAlignment="Stretch" BorderThickness="2" Background="Transparent" SelectionMode="Extended"  Margin="0,0,-0.4,0">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn
+									Header="data:"
+									DisplayMemberBinding="{Binding Path=data}">
+                                </GridViewColumn>
+                                <GridViewColumn
+									Header="Operazioni svolte in questa sessione:"
+									DisplayMemberBinding="{Binding Path=operazione}"></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </TabItem>
+            </TabControl>
+        </StackPanel>
+    </Grid>
+</Window>

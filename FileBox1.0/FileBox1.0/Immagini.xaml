@@ -1,0 +1,14 @@
+﻿<Window x:Class="FileBox1._0.Immagini"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FileBox1._0"
+        mc:Ignorable="d"
+        Title="Immagini" Height="300" Width="300">
+    <Grid>
+        <GroupBox x:Name="txtTitolo" Header="Default Look" Margin="5">
+            <Image x:Name="img"></Image>
+        </GroupBox>
+    </Grid>
+</Window>
