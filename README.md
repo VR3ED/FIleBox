@@ -8,3 +8,9 @@ HOW TO MAKE IT WORK:
 2. create your FileBox profile
 3. access to your FileBox profie
 4. you're now free to uplaod any file up to 5gb of total storage
+
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IMAGES:
+
+
